@@ -3,7 +3,7 @@
 Physics-informed early warning of gas hydrate plugging in subsea production lines, built on the public
 Petrobras **3W Dataset 2.0.0** (CC BY 4.0, [doi:10.6084/m9.figshare.29205836.v1](https://doi.org/10.6084/m9.figshare.29205836.v1)).
 
-This repository regenerates every figure and table of Article 1 from the raw Parquet files.
+This repository regenerates every figure and table from the raw Parquet files.
 
 ## Quick start
 
